@@ -37,7 +37,7 @@ a
     display: block;
     margin-right: auto;
     margin-left: auto;
-    up: 50%;
+    top: 20%;
     max-width: 80%; 
     max-height: auto;
 }
