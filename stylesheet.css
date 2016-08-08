@@ -41,8 +41,10 @@ a
 
 .icons
 
-padding-bottom: 2cm;
+{
+    padding-bottom: 20px;
 
+}
 
 #instagram
 
