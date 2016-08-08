@@ -44,10 +44,10 @@ a
 {
     width: 25px;
     height: 25px;
+    position: absolute;
     left: 0;
     right: 0;
     margin: 0 auto;
-    position: absolute;
     bottom: -20%;
     padding-bottom: 50px;
 }
@@ -58,6 +58,7 @@ a
     width: 25px;
     height: 25px;
     position: absolute;
+    left: 40%;
     bottom: -20%;
     margin-bottom: 50px;
 }
@@ -68,6 +69,7 @@ a
     width: 25px;
     height: 25px;
     position: absolute;
+    right: 40%;
     bottom: -20%;
     margin-bottom: 50px;
 }
