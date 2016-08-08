@@ -33,7 +33,7 @@ a
 #foto
 
 {
-    position: relative;
+    position: absolute;
     display: block;
     margin-right: auto;
     margin-left: auto;
