@@ -42,7 +42,7 @@ a
 #instagram
 
 {
-    position: fixed;
+    position: relative;
     display: block;
     bottom: 10%;
     
