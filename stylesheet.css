@@ -39,9 +39,10 @@ a
     max-height: auto;
 }
 
-#instagram
+.pics
 
 {
-    display: block;
+    position: absolute;
+    bottom: 10%;
     
 }
