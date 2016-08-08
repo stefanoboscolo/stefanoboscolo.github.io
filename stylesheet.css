@@ -5,6 +5,13 @@ body
     background: radial-gradient(white, grey, black) fixed;
 }
 
+a
+
+{
+    color: inherit;
+
+}
+
 /* Provare a fare menu foto class? */
 
 #about
