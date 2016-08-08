@@ -1,0 +1,41 @@
+body
+
+{
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: lighter;
+    background-color: #303030;
+color:red;
+}
+
+a
+
+{
+    color: inherit;
+    text-decoration: none;
+
+}
+
+/* Provare a fare menu foto class? */
+
+.menu
+
+{
+    position: absolute;
+    top: 15%;
+    color: #F0F0F0;
+    font-size: 110%;
+    line-height: 50px;
+}
+
+#foto
+
+{
+    position: absolute;
+    display: block;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    top: 20%;
+    max-width: 70%; 
+    max-height: auto;
+}
