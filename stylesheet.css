@@ -4,3 +4,10 @@ body
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     background-color: #504A4B;
 }
+
+#about
+
+{
+    width:1024;
+    height:800;
+}
