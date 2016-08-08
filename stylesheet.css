@@ -39,19 +39,13 @@ a
     max-height: auto;
 }
 
-img.icons
-
-{
-    margin-bottom:50px;
-}
-
 #instagram
 
 {
     width: 25px;
     height: 25px;
     position: absolute;
-    bottom: -20%;
+    margin-top:50px;
     margin-bottom:50px;
 }
 
