@@ -2,8 +2,8 @@ body
 
 {
     font-family: Tahoma, Geneva, sans-serif;
-    font-weight: lighter;
-    background-color: #505050;
+    font-weight: bold;
+    background-color: #303030;
 }
 
 a
@@ -19,9 +19,11 @@ a
 .menu
 
 {
-    color: white;
+    position: absolute;
+    top: 10%;
+    color: #E0E0E0;
     font-size: 100%;
-    line-height: 100px;
+    line-height: 50px;
 }
 
 #foto
