@@ -53,6 +53,8 @@ a
 {
     width: 25px;
     height: 25px;
+    position: absolute;
+    bottom: -20%;
     
 }
 
@@ -61,5 +63,7 @@ a
 {
     width: 25px;
     height: 25px;
+    position: absolute;
+    bottom: -20%;
     
 }
