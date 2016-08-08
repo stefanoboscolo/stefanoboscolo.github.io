@@ -45,8 +45,7 @@ a
     width: 25px;
     height: 25px;
     position: relative;
-    display: block;
-    bottom: 20px;
+    top: 80%;
 }
 
 #flickr
