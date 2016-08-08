@@ -43,6 +43,7 @@ a
 
 {
     position: absolute;
+    display: block;
     bottom: 10%;
     
 }
