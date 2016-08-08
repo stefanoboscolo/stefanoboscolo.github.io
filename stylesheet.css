@@ -32,7 +32,9 @@ body
 
 {
     position: relative;
-    left: 300px;
+    margin-right: auto;
+    margin-left: auto;
+    up: 300px;
     height: auto; 
     width: auto; 
     max-width: 800px; 
