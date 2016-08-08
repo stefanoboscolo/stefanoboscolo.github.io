@@ -42,8 +42,8 @@ a
 #instagram
 
 {
-    position: absolute;
+    position: static;
     display: block;
-    left: 40%;
+    bottom: 10%;
     
 }
