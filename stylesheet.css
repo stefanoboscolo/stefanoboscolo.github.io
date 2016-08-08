@@ -8,6 +8,8 @@ body
 #foto
 
 {
-    width:1024px;
-    height:800px;
+    height: auto; 
+    width: auto; 
+    max-width: 1024px; 
+    max-height: 800px;
 }
