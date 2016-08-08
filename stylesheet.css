@@ -25,6 +25,7 @@ body
 
 {
     position: relative;
+    display: block;
     margin-right: auto;
     margin-left: auto;
     up: 300px;
