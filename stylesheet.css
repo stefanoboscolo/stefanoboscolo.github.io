@@ -2,7 +2,7 @@ body
 
 {
     font-family: Tahoma, Geneva, sans-serif;
-    font-weight: bold;
+    font-weight: lighter;
     background-color: #303030;
 }
 
@@ -20,8 +20,8 @@ a
 
 {
     position: absolute;
-    top: 10%;
-    color: #E0E0E0;
+    top: 15%;
+    color: #F0F0F0;
     font-size: 100%;
     line-height: 50px;
 }
