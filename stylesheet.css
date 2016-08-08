@@ -52,6 +52,7 @@ img.icons
     height: 25px;
     position: absolute;
     bottom: -20%;
+    margin-bottom:50px;
 }
 
 #flickr
