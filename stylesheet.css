@@ -3,7 +3,7 @@ body
 {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-weight: lighter;
-    background: radial-gradient(white, grey, black) fixed;
+    background-color: #505050 fixed;
 }
 
 a
