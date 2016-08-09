@@ -46,31 +46,25 @@ div.icons img
     height: 25px;
     position: absolute;
     bottom: -20%;
+    padding-bottom: 50px;
 }
 
 #instagram  /* Si puo raccogliere qualcosa in una classe? */
 
 {
-    
     left: 0;
     right: 0;
     margin: 0 auto;
-    
-    padding-bottom: 50px;
 }
 
 #flickr
 
 {
     left: 40%;
-    
-    padding-bottom: 50px;
 }
 
 #linkedin
   
 {
     right: 40%;
-    
-    padding-bottom: 50px;
 }
