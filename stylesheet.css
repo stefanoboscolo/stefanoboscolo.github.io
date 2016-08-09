@@ -39,13 +39,20 @@ a
     max-height: auto;
 }
 
-div.icons
+div.icons img
 
 {
     width: 25px;
     height: 25px;
     position: absolute;
-    right: 40%;
     bottom: -20%;
     margin-bottom: 50px;
+}
+
+#instagram
+
+{
+    left: 0;
+    right: 0;
+    margin: 0 auto;
 }
