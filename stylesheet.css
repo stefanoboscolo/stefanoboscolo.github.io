@@ -44,12 +44,12 @@ div.icons img
 {
     width: 25px;
     height: 25px;
-    position: absolute;
 }
 
 #instagram
 
 {
+    position: absolute;
     left: 0;
     right: 0;
     margin: 0 auto;
