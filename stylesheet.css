@@ -39,7 +39,7 @@ a
     max-height: auto;
 }
 
-div.icons img
+/* div.icons img
 
 {
     width: 25px;
@@ -49,7 +49,7 @@ div.icons img
     padding-bottom: 5%;
 }
 
-#instagram  /* Si puo raccogliere qualcosa in una classe? */
+#instagram  /* Si puo raccogliere qualcosa in una classe? 
 
 {
     left: 0;
@@ -68,3 +68,5 @@ div.icons img
 {
     right: 40%;
 }
+
+*/
