@@ -4,7 +4,7 @@ body
 	font-family: Tahoma, Geneva, sans-serif;
 	font-weight: lighter;
 	background-color: #202020;
-	@font-face { font-family: Aller; src: url(https://github.com/stefanoboscolo/stefanoboscolo.github.io/raw/master/fonts/Aller.ttf); }
+	@font-face { font-family: 'Aller'; src: url('https://github.com/stefanoboscolo/stefanoboscolo.github.io/raw/master/fonts/Aller.ttf') format('truetype'); }
 }
 
 a
