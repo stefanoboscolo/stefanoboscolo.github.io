@@ -48,7 +48,7 @@ a
 #foto
 
 {
-	position: relative;
+	position: absolute;
 	display: block;
 	left: 0;
 	right: 0;
