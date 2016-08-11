@@ -40,10 +40,11 @@ a
 	top: 28%;
 	left: 4%;
 	color: #e6ffe6;
+	display: block;
 	font-size: 110%;
 	line-height: 50px;
 	text-align: right;
-	overflow: hidden;
+	min-width: 20%;
 }
 
 #foto
@@ -57,7 +58,6 @@ a
 	top: 20%;
 	max-width: 100%; 
 	max-height: auto;
-	float: left;
 }
 
 .blink:hover
