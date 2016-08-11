@@ -36,6 +36,7 @@ a
     color: #e6ffe6;
     font-size: 110%;
     line-height: 50px;
+    text-align: right;
 }
 
 #foto
@@ -49,6 +50,38 @@ a
     top: 20%;
     max-width: 55%; 
     max-height: auto;
+}
+
+#islanda:hover
+
+{
+
+	color: black;
+
+}
+
+#about:hover
+
+{
+
+	color: black;
+
+}
+
+#geru:hover
+
+{
+
+	color: black;
+
+}
+
+#parigi:hover
+
+{
+
+	color: black;
+
 }
 
 /* div.icons img
