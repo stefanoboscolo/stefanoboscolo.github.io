@@ -36,7 +36,7 @@ a
 .menu
 
 {
-	position: relative;
+	position: absolute;
 	top: 28%;
 	left: 4%;
 	color: #e6ffe6;
@@ -48,7 +48,7 @@ a
 #foto
 
 {
-	position: absolute;
+	position: relative;
 	display: block;
 	left: 0;
 	right: 0;
