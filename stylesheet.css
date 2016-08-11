@@ -30,7 +30,8 @@ a
 	position: absolute;
 	right: 10%;
 	/*font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;*/
-	font-size: 200%;
+	/*font-size: 200%;*/
+	font-weight:lighter;
 	/*font-weight: lighter;*/
 	color: #e6ffe6;
 }
