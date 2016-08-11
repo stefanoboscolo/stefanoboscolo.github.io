@@ -4,6 +4,7 @@ body
 	font-family: Tahoma, Geneva, sans-serif;
 	font-weight: lighter;
 	background-color: #202020;
+	@font-face { font-family: Font Name; src: url(https://www.fontsquirrel.com/fonts/download/Aller); }
 }
 
 a
